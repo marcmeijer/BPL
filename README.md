@@ -13,4 +13,7 @@ components are explicitly specified in the model as a parameter. A standard nota
 - q: The size of the moving average window, also called the order of moving average.
 A linear regression model is constructed including the specified number and type of terms, and the data is prepared by a degree of differencing in order to make it stationary, i.e. to remove trend and seasonal structures that negatively affect the regression model.
 
+Differencing removes the changes in the level of a time series, eliminating trend and seasonality and consequently stabilizing the mean of the time series.
+Seasonal Differencing, which involves computing the difference between an observation and the corresponding observation in the previous year.
+
 ARIMA models are atheoretic models, so the usual rules of interpreting estimated regression coefficients do not strictly apply in the same way. ARIMA models have certain features to be aware of.
