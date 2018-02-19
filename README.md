@@ -1,6 +1,6 @@
 ## BPL-Energy Time Series Analysis
 ![Datbos logo](logo.png)
-### This is a time regression analysis of the electrical energy consumption of the Boston Publi Library.
+### This is a time regression analysis of the electrical energy consumption of the Boston Public Library.
 ### AutoRegressive Integrated Moving Average
 Using a class of statistical models for analyzing and forecasting time series data
 - AR: Autoregression A model uses the dependent relationship between an observation and some number of lagged observations
