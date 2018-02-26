@@ -17,3 +17,5 @@ Differencing removes the changes in the level of a time series, eliminating tren
 Seasonal Differencing, which involves computing the difference between an observation and the corresponding observation in the previous year.
 
 ARIMA models are atheoretic models, so the usual rules of interpreting estimated regression coefficients do not strictly apply in the same way. ARIMA models have certain features to be aware of.
+
+prediction is controlled by the 
