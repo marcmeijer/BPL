@@ -18,4 +18,7 @@ Seasonal Differencing, which involves computing the difference between an observ
 
 ARIMA models are atheoretic models, so the usual rules of interpreting estimated regression coefficients do not strictly apply in the same way. ARIMA models have certain features to be aware of.
 
-prediction is controlled by the 
+prediction is controlled by the daates chosen in the model call
+predictions = model.predict('2018-01-05 14:00:00','2018-01-30 08:00:00',dynamic=True)
+start time has to be between initial start time and next data time point
+Stop time has to be after final data point time
