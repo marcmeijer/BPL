@@ -1,4 +1,4 @@
-## BPL-Energy Time Series Analysis
+## Boston Public Library-Energy Time Series Analysis
 ![Datascience logo](logo.png)
 ### This is a time regression analysis of the electrical energy consumption of the Boston Public Library.
 ### AutoRegressive Integrated Moving Average
